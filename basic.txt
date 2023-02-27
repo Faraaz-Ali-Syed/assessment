@@ -1,3 +1,7 @@
 Hello, I am a Sharpernerian!
 This is a basic file I've created!
 Thank you!
+
+*Commiting & updating*
+
+Thanks!
